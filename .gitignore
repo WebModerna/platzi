@@ -1,4 +1,6 @@
 *.log
+*.txt
+stylus
 .htaccess
 sitemap.xml
 sitemap.xml.gz
